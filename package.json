@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "tailwind.config.js",
   "scripts": {
-    "build:styles": ""
+    "build:styles": "npx @tailwindcss/cli -i ./input.css -o ./assets/output.css --watch"
   },
   "repository": {
     "type": "git",

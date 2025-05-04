@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+@theme{
+    /* Colores */
+    --color-primary: #4a90e2;
+    --color-primary-light: #e1f5fe;
+    --color-primary-dark: #0d47a1;
+
+    /* Breakpoints */
+}
