@@ -1,0 +1,24 @@
+{
+  "name": "curso-tailwind-css-4---midudev",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build:styles": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvinhe04/Curso-Tailwind-CSS-4---midudev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelvinhe04/Curso-Tailwind-CSS-4---midudev/issues"
+  },
+  "homepage": "https://github.com/kelvinhe04/Curso-Tailwind-CSS-4---midudev#readme",
+  "description": "",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.5",
+    "tailwindcss": "^4.1.5"
+  }
+}
